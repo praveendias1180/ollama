@@ -12,3 +12,8 @@
 
 ![ollama-gpu](gpu.png)
 
+# Why the Sky is Blue
+
+Asking why the sky is blue is a common question. I asked it from Ollama.
+
+![sky](sky-blue.png)
