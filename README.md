@@ -39,3 +39,7 @@ ollama show llama3.2
 ```
 
 ![ollama-commands](commands.png)
+
+# Uncensored Dolphin
+
+![](dolphin.png)
