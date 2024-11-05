@@ -25,3 +25,17 @@ ollama run llama3.2
 Asking why the sky is blue is a common question. I asked it from Ollama.
 
 ![sky](sky-blue.png)
+
+# Ollama Commands
+
+```
+ollama run llama3.2
+````
+
+```
+ollama list
+ollama ps
+ollama show llama3.2
+```
+
+![ollama-commands](commands.png)
